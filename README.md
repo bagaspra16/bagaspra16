@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bagaspra16
-- 👀 I’m interested in Java and HTML
-- 🌱 I’m currently learning Javascript    
+- 👀 I’m interested in Software Engineer & Software Developer
+- 🌱 I’m currently learning Javascript, and Python   
 - 📫 How to reach me bagaspratamajunianika72@gmail.com   
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You can contact me everytime you have a interesting project!
