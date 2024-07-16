@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bagaspra16
-- 👀 I’m interested in Software Engineer & Software Developer
+- 👀 I’m interested in Frontend Developer & Backend Developer
 - 🌱 I’m currently learning Javascript, Python, and React   
 - 📫 How to reach me bagaspratamajunianika72@gmail.com   
 - 😄 Pronouns: He/him
