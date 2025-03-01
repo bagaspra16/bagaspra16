@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @bagaspra16
-- 👀 I’m interested in FullStack Developer & Java Developer
-- 🌱 I’m currently learning Python, React, and Laravel   
-- 📫 How to reach me bagaspratamajunianika72@gmail.com   
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: You can contact me everytime you have a interesting project!
+# Hi, I'm Bagas Pratama 👋
+
+🚀 **Full-Stack & Web Developer** | Passionate about building seamless user experiences and optimizing backend processes.
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, JavaScript (ES6+), Tailwind CSS
+- **Backend:** Laravel, PHP, Node.js, Python
+- **Databases:** MySQL, PostgreSQL
+- **Other Skills:** ERP Development, OSINT Tools, Interactive Web
+
+---
+
+## 🔥 What I Do
+- Develop **custom chatbots** with smart responses
+- Create **engaging websites** with specific functionalities
+- Develop **OSINT & hacking-related tools**
+- Build **ERP-based web applications**
+
+---
+
+📫 **Let's Connect:** [bagaspratamajunianika72@gmail.com](mailto:bagaspratamajunianika72@gmail.com)  
+⚡ **Fun Fact:** I’m always up for an exciting project!
 
 <!---
 bagaspra16/bagaspra16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
