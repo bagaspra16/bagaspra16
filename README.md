@@ -5,7 +5,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, JavaScript (ES6+), Tailwind CSS
+- **Frontend:** Boostrap, JavaScript (ES6+), Tailwind CSS
 - **Backend:** Laravel, PHP, Node.js, Python
 - **Databases:** MySQL, PostgreSQL
 - **Other Skills:** ERP Development, OSINT Tools, Interactive Web
