@@ -1,4 +1,4 @@
-# Hi, I'm Bagas Pratama 👋
+# Hi, I'm Bagas Pratama Junianika 👋
 
 🚀 **Full-Stack & Web Developer** | Passionate about building seamless user experiences and optimizing backend processes.
 
