@@ -13,7 +13,7 @@
 ---
 
 ## 🔥 What I Do
-- Develop **custom chatbots** with smart responses
+- Develop **building interactive tools** for everyday needs or microservice
 - Create **engaging websites** with specific functionalities
 - Develop **OSINT & hacking-related tools**
 - Build **ERP-based web applications**
