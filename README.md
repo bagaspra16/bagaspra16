@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 - **Frontend:** Bootstrap, JavaScript (ES6+), Tailwind CSS
-- **Backend:** Laravel, PHP, Node.js, Python
+- **Backend:** Laravel, PHP, Java, Python
 - **Databases:** MySQL, PostgreSQL
 - **Other Skills:** ERP Development, OSINT Tools, Interactive Web
 
