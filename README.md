@@ -1,8 +1,8 @@
-# ⟡ Bagas Pratama Junianika
+# ⟡ Bagas Pratama Junianika ⟡
 
 ───
 
-## ◼ Who I Am
+## Who I Am
 
 I build **systems that survive reality**.
 
@@ -10,7 +10,7 @@ Not demos. Not abstractions for their own sake. Systems that handle messy data, 
 
 ───
 
-## ◼ What I Focus On
+## What I Focus On
 
 ▸ Backend systems with **clear state, traceable data, and strict rules**
 ▸ Inventory, stock, FIFO, and transaction-driven logic
@@ -21,7 +21,7 @@ I care more about **correctness and durability** than novelty.
 
 ───
 
-## ◼ How I Think
+## How I Think
 
 ▸ Every system will be misused
 ▸ Every edge case will eventually happen
@@ -32,7 +32,7 @@ I design with failure in mind, not optimism.
 
 ───
 
-## ◼ Tools I Use (With Intent)
+## Tools I Use (With Intent)
 
 ▸ Backend: PHP (Laravel), GoLang, Node.js, Python, Java, C++
 ▸ Database: MySQL, PostgreSQL
@@ -44,7 +44,7 @@ Tools are choices, not identities.
 
 ───
 
-## ◼ What I Avoid
+## What I Avoid
 
 ▸ Buzzword-driven architecture
 ▸ "Move fast, fix later" systems
@@ -55,7 +55,7 @@ If it can’t be reasoned about, it’s already technical debt.
 
 ───
 
-## ◼ Direction
+## Direction
 
 I am moving toward:
 ▸ System architecture
@@ -66,7 +66,7 @@ Influence comes from systems that endure, not trends.
 
 ───
 
-## ◼ Working With Me
+## Working With Me
 
 Expect clarity, direct feedback, and strong opinions about structure.
 
