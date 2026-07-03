@@ -1,14 +1,11 @@
 # ⟡ Bagas Pratama Junianika ⟡
 
-───
-
 ## Who I Am
 
 I build **systems that survive reality**.
 
 Not demos. Not abstractions for their own sake. Systems that handle messy data, imperfect users, changing requirements, and operational pressure.
 
-───
 
 ## What I Focus On
 
@@ -19,7 +16,6 @@ Not demos. Not abstractions for their own sake. Systems that handle messy data, 
 
 I care more about **correctness and durability** than novelty.
 
-───
 
 ## How I Think
 
@@ -30,7 +26,6 @@ I care more about **correctness and durability** than novelty.
 
 I design with failure in mind, not optimism.
 
-───
 
 ## Tools I Use (With Intent)
 
@@ -42,7 +37,6 @@ I design with failure in mind, not optimism.
 
 Tools are choices, not identities.
 
-───
 
 ## What I Avoid
 
@@ -53,7 +47,6 @@ Tools are choices, not identities.
 
 If it can’t be reasoned about, it’s already technical debt.
 
-───
 
 ## Direction
 
@@ -64,7 +57,6 @@ I am moving toward:
 
 Influence comes from systems that endure, not trends.
 
-───
 
 ## Working With Me
 
