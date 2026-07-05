@@ -64,6 +64,4 @@ Expect clarity, direct feedback, and strong opinions about structure.
 
 In return, you get someone who treats your system as if it will still matter years from now.
 
-───
-
-▣ If this resonates, we likely speak the same language.
+If this resonates, we likely speak the same language.
